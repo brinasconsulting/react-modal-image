@@ -21,7 +21,7 @@
     "test": "start-server-and-test start:static http://localhost:8888 cypress:run"
   },
   "peerDependencies": {
-    "react": "16.x"
+    "react": "17.x"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
